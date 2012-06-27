@@ -1,0 +1,5 @@
+I used an Iterative Inverse Jacobian approach. Right now it has some performance issues which I hope to work out by next Tuesday, but we'll see.
+
+No one has any tutorial on this out there so once I fix the performance issue I'm going to write one and make it available in this section as a pdf download.
+
+For now the source is available but I'd recommend waiting to look at it until the performance error is taken care of.
